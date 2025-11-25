@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pt
+*.mp4
+*.gif
+tensorboard/
+.venv/
+.venvs/
+output_eval*/
+trained_models/
